@@ -10,3 +10,5 @@ The Factor Calculator can handle integers up to 100,000. For larger integers, th
 The Factor Calculator can be useful for a variety of mathematical applications, such as finding the common factors of two integers, checking whether an integer is a prime number, or factoring a polynomial.
 
 This tool created for the article [Online Factor Calculator](https://ilyasozkurt.com/general/factor-calculator-a-handy-math-companion/) at [ilyasozkurt.com](https://ilyasozkurt.com).
+
+Sponsored by [freestockphotos.site](https://freestockphotos.site "Free Stock Photos.site")
