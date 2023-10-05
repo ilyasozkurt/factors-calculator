@@ -11,4 +11,4 @@ The Factor Calculator can be useful for a variety of mathematical applications, 
 
 This tool created for the article [Online Factor Calculator](https://ilyasozkurt.com/general/factor-calculator-a-handy-math-companion/) at [ilyasozkurt.com](https://ilyasozkurt.com).
 
-Sponsored by [freestockphotos.site](https://freestockphotos.site "Free Stock Photos.site")
+Sponsored by [hometrust.app](https://hometrust.app "Property Reviews Platform")
